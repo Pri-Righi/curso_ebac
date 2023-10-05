@@ -1,0 +1,8 @@
+@use 'variaveis';
+
+body {
+    font-family: variaveis.$fontePrincipal;
+    background-color: variaveis.$corPrincipal;
+}
+
+
